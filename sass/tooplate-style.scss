@@ -164,6 +164,9 @@ b, strong {
     &:nth-child(3n+3) {
         animation-delay: 4s;
     }
+	&:nth-child(4n+4) {
+		animation-delay: 6s;
+	}
 }
 
 @keyframes BottomTotop {
